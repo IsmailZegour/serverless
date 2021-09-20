@@ -1,0 +1,15 @@
+{
+  "name": "tp1_serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serverless-dynamodb-local": "^0.2.40",
+    "uuid": "^8.3.2"
+  }
+}
